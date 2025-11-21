@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2058-concatenation-of-array](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2058-concatenation-of-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2846-robot-collisions](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2058-concatenation-of-array) |
 | [2846-robot-collisions](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2846-robot-collisions) |
 ## Binary Search
 |  |
