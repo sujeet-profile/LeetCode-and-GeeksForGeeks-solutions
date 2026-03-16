@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1522-stone-game-iii](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1522-stone-game-iii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2058-concatenation-of-array](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2058-concatenation-of-array) |
@@ -468,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1129-longest-string-chain) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2846-robot-collisions](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2846-robot-collisions) |
 ## Simulation
@@ -504,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1522-stone-game-iii](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1522-stone-game-iii) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2206-detonate-the-maximum-bombs](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2206-detonate-the-maximum-bombs) |
 ## Hash Table
 |  |
@@ -675,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1014-k-closest-points-to-origin](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1127-last-stone-weight) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1977-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
@@ -696,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/0238-product-of-array-except-self) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -712,6 +717,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/0794-swim-in-rising-water) |
 | [1396-count-servers-that-communicate](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1396-count-servers-that-communicate) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
