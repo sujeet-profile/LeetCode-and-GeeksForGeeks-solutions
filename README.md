@@ -260,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2058-concatenation-of-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2206-detonate-the-maximum-bombs) |
 | [2846-robot-collisions](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/2846-robot-collisions) |
+| [3643-flip-square-submatrix-vertically](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/0768-partition-labels) |
 | [1129-longest-string-chain](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1129-longest-string-chain) |
+| [3643-flip-square-submatrix-vertically](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Tree
 |  |
 | ------- |
@@ -718,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/0794-swim-in-rising-water) |
 | [1396-count-servers-that-communicate](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3643-flip-square-submatrix-vertically](https://github.com/glbitm-coder/LeetCode-and-GeeksForGeeks-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Union Find
 |  |
 | ------- |
